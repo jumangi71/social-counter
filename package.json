@@ -1,0 +1,26 @@
+{
+  "name": "social-counter",
+  "version": "0.0.1",
+  "description": "Simple lib for getting social share counts. Supported Vk, Facebook, Ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumangi71/social-counter.git"
+  },
+  "keywords": [
+    "js",
+    "social"
+  ],
+  "author": "Koshkarov Ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumangi71/social-counter/issues"
+  },
+  "homepage": "https://github.com/jumangi71/social-counter#readme",
+  "devDependencies": {
+    "jquery": "^3.1.0"
+  }
+}
